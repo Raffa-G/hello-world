@@ -1,11 +1,11 @@
-# about me
+# About me
 
-```
 ## ID
-  FirstName: **Rafaela**
+```
+  FirstName: Rafaela
   LastName: Garcez
-  Age: 38 feeling 28 :joy:
-  "nationaity": Portuguese
+  Age: 38
+  Nationaity: Portuguese
 ``` 
 ### Professional Occupations:
 1.  Designer
@@ -22,4 +22,6 @@
 Psychology; 
 Performative arts; 
 Interior Design.*
+
+🙂
 
