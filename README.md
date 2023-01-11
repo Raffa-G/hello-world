@@ -3,9 +3,9 @@
 ## ID
 ```
 {
-  "firstName": "**Rafaela**",
-  "lastName": "**Garcez**",
-  "age": 38 ( feeling 28 :joy: ),
+  "firstName": "Rafaela",
+  "lastName": "Garcez",
+  "age": 38 feeling 28 :joy:,
   "nationaity": Portuguese
 }
 ``` 
@@ -20,8 +20,8 @@
 - counselor
 
 ### Passions:
-*Buddhism
-Psychology
-Performative arts
-Interior Design*
+*Buddhism; 
+Psychology; 
+Performative arts; 
+Interior Design.*
 
